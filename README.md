@@ -1,6 +1,6 @@
-# Resend with Example
+# Resend with cURL
 
-This example shows how to use Resend with [Example](https://example.com).
+This example shows how to use Resend with [cURL](https://curl.se).
 
 ## Prerequisites
 
@@ -11,18 +11,12 @@ To get the most out of this guide, you’ll need to:
 
 ## Instructions
 
-1. Replace `re_123456789` on `example.ts` with your API key.
+1. Replace `re_123456789` on `send.sh` with your API key.
 
-2. Install dependencies:
-
-  ```sh
-TBD
-  ```
-
-3. Execute the following command:
+2. Execute the following command:
 
   ```sh
-TBD
+./send.sh
   ```
 
 ## License
